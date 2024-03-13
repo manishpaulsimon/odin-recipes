@@ -1,0 +1,20 @@
+.title {
+    font: bold;
+    font-family: sans-serif,"Times New Roman";
+    font-size: 48px;
+    margin: 20px;
+    padding: 20px;
+}
+.list {
+    font: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    margin: 20px;
+}
+.pad {
+    margin: 40px;
+}
+
+.pad img {
+    margin: 40px;
+}
